@@ -34,6 +34,9 @@ The application sends an HTTP request to the weather API, receives JSON data, pa
 4. Run:
    flutter run
 
+## API Integration
+The application sends an HTTP request to a weather API service and receives weather data in JSON format. 
+The JSON response is parsed and the UI updates dynamically to display temperature and city information.
 
 ## Screenshots
 
