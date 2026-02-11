@@ -38,7 +38,7 @@ The application sends an HTTP request to the weather API, receives JSON data, pa
 ## Screenshots
 
 ### Weather Result
-![weather](screenshots/climatesearch.png)
+![weather](screenshots/climateweatherresult.png)
 
 ### Search / Loading
-
+![Search](screenshots/climatesearch.png)
